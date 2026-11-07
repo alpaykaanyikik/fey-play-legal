@@ -1,0 +1,12 @@
+# Bu depo HERKESE AÇIK (GitHub Pages). Yalnız yasal sayfalar girer.
+.DS_Store
+*.swp
+.env
+.env.*
+key.properties
+*.jks
+*.keystore
+*.p8
+*.p12
+*.pem
+*.mobileprovision
